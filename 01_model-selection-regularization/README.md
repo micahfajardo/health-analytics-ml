@@ -1,5 +1,5 @@
 
-# Module 01 · Model Selection & Regularization
+# Project 01 · Model Selection & Regularization
 
 ## Research Question
 
