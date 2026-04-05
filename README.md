@@ -104,11 +104,3 @@ Statistical inference through simulation on a hospital operations dataset.
 | Pima Indians Diabetes (768 patients) | `mlbench` — UCI ML Repository | 02 |
 | Health state transitions | `hesim` package | 02 |
 | Hospital operations (8 operational metrics) | Clinical dataset | 04 |
-
----
-
-## Author
-
-**Micah Theresse B. Fajardo**
-MS Data Science · University of the Philippines Manila
-[github.com/micahfajardo](https://github.com/micahfajardo) · [LinkedIn](https://www.linkedin.com/in/micah-theresse-fajardo-rch-67b76922a/)
