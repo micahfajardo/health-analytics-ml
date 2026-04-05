@@ -1,4 +1,4 @@
-# Module 04 · Bootstrapping, CLT & Correlation
+# Project 04 · Bootstrapping, CLT & Correlation
 
 Statistical inference through simulation: manual bootstrap implementation for 99% confidence intervals, Central Limit Theorem demonstration from a Binomial distribution, and Pearson correlation analysis on a hospital operations dataset.
 
